@@ -19,6 +19,7 @@ body {
     background-color: var (--cor-de-fundo);
     font-family: var(--roboto);
 }
+
 .titulo-principal {
     font-family: var(--roboto-mono);
     font-size: 32px;
@@ -131,11 +132,11 @@ body {
 
     .fraca {
         width: 25%
-        background-color #E71B32;
+        background-color #d23a4c;
     }
 
     .media {
-        background-color: #FAF408;
+        background-color: #54c34c;
         width: 50%;
     }
 
